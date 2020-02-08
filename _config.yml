@@ -12,7 +12,7 @@ github_repo: "https://github.com/laicl/laicl.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "每年开春，有闲时有力气，开始折腾自己的博客。"
-sidebar-avatar: /img/giraffe.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/giraffe.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
