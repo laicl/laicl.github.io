@@ -1,7 +1,7 @@
 # Site settings
 title: it is a puzzle
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 铃ing的博客 | LCL Blog
+header-img: img/background.jpeg
 email: cling.lai@aliyun.com
 # description: "Every failure is leading towards success."
 # keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
@@ -11,8 +11,8 @@ github_repo: "https://github.com/laicl/laicl.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "每年开春，有闲时有力气，开始折腾自己的博客。"
+sidebar-avatar: /img/giraffe.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+github_username:    laicl
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -86,7 +86,7 @@ kramdown:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
